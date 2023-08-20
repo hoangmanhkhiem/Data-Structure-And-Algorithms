@@ -168,3 +168,6 @@
 + [Interpolation Search](algorithms/InterpolationSearch.cpp)
 + [Jump_Search](algorithms/JumpSearch.cpp)
 + [Ternary Search](algorithms/TernarySearch.cpp)
+
+### A few Function in C++
++ [Function](Function/Function.cpp)
